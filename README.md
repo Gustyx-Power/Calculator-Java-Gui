@@ -1,4 +1,4 @@
-# Kalkulator GUI Modern
+# Calculator Java GUI
 
 Aplikasi kalkulator sederhana dengan tampilan modern menggunakan Java Swing + FlatLaf.
 

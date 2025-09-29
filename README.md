@@ -23,7 +23,7 @@ Aplikasi kalkulator sederhana dengan tampilan modern menggunakan Java Swing + Fl
 Calculator/
 ├── src/
 │   └── CalculatorGUI.java
-├── flatlaf-3.4.1.jar
+├── flatlaf-3.6.1.jar
 └── README.md
 
 
